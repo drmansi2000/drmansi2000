@@ -15,5 +15,5 @@ Thanks for taking time to read this. Follow me to hear more about me. :)
     Mail - drmansi2000@gmail.com
     LeetCode - mansi_2000
 
-*My Instagram Page : @the.design.girl
-*My YoutTube Channel : https://www.youtube.com/channel/UCUVN3GQFOTY8MUsW8KxGq2w
+* My Instagram Page : @the.design.girl
+* My YoutTube Channel : https://www.youtube.com/channel/UCUVN3GQFOTY8MUsW8KxGq2w
