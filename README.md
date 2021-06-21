@@ -6,7 +6,7 @@ I have interest in Android Development, UI UX Designing. I code formally in Java
 
 Thanks for taking time to read this. Follow me to hear more about me. :)
 
-#📫 Get in touch
+# 📫 Get in touch
 LinkedIn - Mansi Gupta
 Twitter - @drmansig
 Instagram - @maansee.g
