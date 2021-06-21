@@ -7,10 +7,10 @@ I have interest in Android Development, UI UX Designing. I code formally in Java
 Thanks for taking time to read this. Follow me to hear more about me. :)
 
 # 📫 Get in touch
-LinkedIn - Mansi Gupta
-Twitter - @drmansig
-Instagram - @maansee.g
-Mail - drmansi2000@gmail.com
-LeetCode - mansi_2000
+    LinkedIn - Mansi Gupta
+    Twitter - @drmansig
+    Instagram - @maansee.g
+    Mail - drmansi2000@gmail.com
+    LeetCode - mansi_2000
 
 My Instagram Page : @the.design.girl
