@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey! I am Mansi
 
-<!--
-**drmansi2000/drmansi2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am the Co-Founder of C2M, a B2C startup connecting the local vendors to the customers. By profession, I am a final year college student doing bachelors in Technology in Computer Science.
 
-Here are some ideas to get you started:
+I have interest in Android Development, UI UX Designing. I code formally in Java. I am also a Mentor in Android and Data Structures & Algo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for taking time to read this. Follow me to hear more about me. :)
+
+#📫 Get in touch
+LinkedIn - Mansi Gupta
+Twitter - @drmansig
+Instagram - @maansee.g
+Mail - drmansi2000@gmail.com
+LeetCode - mansi_2000
+
+My Instagram Page : @the.design.girl
