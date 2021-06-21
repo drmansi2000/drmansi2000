@@ -4,6 +4,8 @@ I am the Co-Founder of C2M, a B2C startup connecting the local vendors to the cu
 
 I have interest in Android Development, UI UX Designing. I code formally in Java. I am also a Mentor in Android and Data Structures & Algo.
 
+I actively code use GitHub but most of my repository is private.
+
 Thanks for taking time to read this. Follow me to hear more about me. :)
 
 # 📫 Get in touch
